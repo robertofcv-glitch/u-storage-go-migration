@@ -1,0 +1,85 @@
+.move-booking-calendar {
+  width: 100%;
+  padding: 0;
+  background: white;
+}
+
+/* Explicit table sizing avoids the shared wrapper's obsolete table class key
+   and CSS-variable sizing shorthand collapsing DayPicker v9's columns. */
+.move-booking-calendar table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.move-booking-calendar thead,
+.move-booking-calendar tbody {
+  display: table-row-group;
+}
+
+.move-booking-calendar tr {
+  display: table-row;
+}
+
+.move-booking-calendar th,
+.move-booking-calendar td {
+  display: table-cell;
+  width: calc(100% / 7);
+  height: 40px;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.move-booking-calendar th {
+  height: 34px;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0;
+  color: #64748b;
+}
+
+.move-booking-calendar td button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 38px;
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  border-radius: 10px;
+  aspect-ratio: auto;
+}
+
+.move-booking-calendar td button[data-range-middle="true"] {
+  border-radius: 0;
+  background: var(--move-date-range);
+}
+
+.move-booking-calendar td button[data-range-start="true"],
+.move-booking-calendar td button[data-range-end="true"],
+.move-booking-calendar td button[data-selected-single="true"] {
+  background: var(--move-date-brand);
+  color: white;
+}
+
+.move-booking-calendar td button:disabled {
+  color: #b8bec7;
+}
+
+.move-booking-calendar nav button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+}
+
+@media (max-width: 767px) {
+  .move-booking-calendar th,
+  .move-booking-calendar td {
+    height: 40px;
+  }
+}

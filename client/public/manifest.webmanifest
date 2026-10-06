@@ -1,0 +1,29 @@
+{
+  "name": "U-Storage Go",
+  "short_name": "U-Storage Go",
+  "description": "Movemos lo que valoras, cuidamos lo que importa. Cotiza tu mudanza al instante.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF9F6",
+  "theme_color": "#4E2069",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/brand/v1/favicons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/v1/favicons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/v1/favicons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

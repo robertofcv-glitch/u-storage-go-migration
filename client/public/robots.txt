@@ -1,0 +1,126 @@
+# U-Storage Go - Robots.txt
+# https://rukumove.com
+
+# Default rules for all crawlers
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+# Embeddable partner widgets are surfaced via the partner's own site.
+Disallow: /embed
+Disallow: /embed/
+
+# OpenAI GPTBot - Welcome!
+User-agent: GPTBot
+Allow: /
+Allow: /quote
+Allow: /about
+Allow: /blog
+Allow: /mover
+Allow: /u-storage
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Anthropic ClaudeBot - Welcome!
+User-agent: ClaudeBot
+Allow: /
+Allow: /quote
+Allow: /about
+Allow: /blog
+Allow: /mover
+Allow: /u-storage
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Anthropic Claude-Web
+User-agent: Claude-Web
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Google Bard / Gemini
+User-agent: Google-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Microsoft Bing Chat / Copilot
+User-agent: Bingbot
+Allow: /
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# CCBot (Common Crawl - used by many AI training)
+User-agent: CCBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /mover/dashboard
+Disallow: /mover/dashboard/
+
+# Sitemap location
+Sitemap: https://rukumove.com/sitemap.xml
+
+# LLM-specific documentation
+# For AI assistants: See /llms.txt for platform overview
+# For detailed documentation: See /llms-full.txt

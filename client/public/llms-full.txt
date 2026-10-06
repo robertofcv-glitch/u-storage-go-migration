@@ -1,0 +1,214 @@
+# U-Storage Go - Complete Platform Documentation for AI Assistants
+# https://rukumove.com
+# Last Updated: December 2024
+
+================================================================================
+PLATFORM OVERVIEW
+================================================================================
+
+U-Storage Go is a professional moving and storage service, born from U-Storage, operating in Mexico with its own crews and trucks. Customers get clear, transparent quotes and a single accountable team from start to finish.
+
+## Mission
+To make moving stress-free by providing instant estimates, our own professional crews, and transparent pricing.
+
+## Unique Value Proposition
+- AI-powered inventory assistant ("our AI inventory assistant") for accurate estimates
+- Visual inventory picker with 20+ item categories
+- Weight-based pricing using truck capacity calculations
+- Our own trained, identified, and insured crews and trucks
+- Bilingual platform (Spanish/English)
+- Storage in U-Storage facilities, coordinated with your move
+
+================================================================================
+SERVICES IN DETAIL
+================================================================================
+
+## 1. Mudanzas (Moving Services)
+- Professional residential moves performed by U-Storage Go's own crews and trucks
+- Apartment to apartment and house to house moves
+- Careful handling, clear quotes, and real-time tracking
+- Insurance coverage included
+
+## 2. Bodega U-Storage (Storage Services)
+- Storage in U-Storage facilities
+- Short-term and long-term options
+- Climate-controlled units available
+- Pickup and delivery coordination with your move
+
+================================================================================
+GEOGRAPHIC COVERAGE
+================================================================================
+
+## Currently Active Markets (Mexico)
+- Ciudad de México (CDMX) - Full coverage
+- Guadalajara, Jalisco - Full coverage
+- Monterrey, Nuevo León - Full coverage
+- Cancún, Quintana Roo - Limited coverage
+- Puebla - Limited coverage
+- Querétaro - Limited coverage
+
+================================================================================
+HOW THE PLATFORM WORKS
+================================================================================
+
+## For Customers
+
+### Step 1: Describe Your Move
+- Enter origin and destination addresses
+- Select your preferred moving date
+- Choose home size or use detailed inventory
+
+### Step 2: Build Your Inventory
+Option A: Chat with our AI inventory assistant (AI Assistant)
+- Describe your items in natural language
+- AI categorizes and estimates weights
+- Interactive conversation in Spanish or English
+
+Option B: Visual Inventory Picker
+- Browse 20 categories (sofas, beds, tables, etc.)
+- Select items room by room
+- Adjust quantities as needed
+
+### Step 3: Get Your Estimate
+- Instant price range based on:
+  - Total inventory weight
+  - Recommended truck size
+  - Distance between addresses
+  - Additional services selected
+
+### Step 4: Confirm Your Quote
+- Our team reviews your request and confirms a clear, transparent quote
+- No hidden fees — you know the price before you commit
+
+### Step 5: Book Your Move
+- Confirm details and schedule
+- Receive confirmation and tracking info
+- U-Storage Go's own crews handle your move
+
+================================================================================
+PRICING STRUCTURE
+================================================================================
+
+## How Pricing Works
+- Weight-based calculation using inventory items
+- Truck type recommendations based on total weight
+- City-specific base rates and distance factors
+- Add-ons for packing, insurance, storage
+
+## Typical Price Ranges (Mexico, 2024)
+- Small apartment: $2,000 - $5,000 MXN
+- Medium house: $5,000 - $12,000 MXN
+- Large house: $12,000 - $25,000 MXN
+
+## Transparent Pricing
+- Customers see transparent pricing
+- No hidden fees
+
+================================================================================
+INVENTORY CATEGORIES
+================================================================================
+
+The platform tracks 20 item categories for accurate weight estimation:
+
+1. Sofás (Sofas) - Living room seating
+2. Camas (Beds) - All bed sizes
+3. Mesas (Tables) - Dining, coffee, side tables
+4. Sillas (Chairs) - Dining, office, accent chairs
+5. Almacenamiento (Storage) - Dressers, wardrobes, shelving
+6. Electrónicos (Electronics) - Computers, stereos, small appliances
+7. Electrodomésticos (Appliances) - Refrigerators, washers, dryers
+8. Cajas (Boxes) - Packed boxes of various sizes
+9. Frágil (Fragile) - Glass, ceramics, delicate items
+10. Exterior (Outdoor) - Patio furniture, grills
+11. Ejercicio (Exercise) - Gym equipment, weights
+12. Niños (Kids) - Cribs, toys, children's furniture
+13. TV Grande (Large TV) - 50"+ televisions
+14. TV Pequeña (Small TV) - Under 50" televisions
+15-20. Other specialty categories
+
+================================================================================
+TECHNOLOGY FEATURES
+================================================================================
+
+## our AI inventory assistant
+- Natural language processing for inventory creation
+- Bilingual conversation (Spanish/English)
+- Weight estimation algorithms
+- Contextual suggestions and questions
+
+## Quote Tracking
+- Real-time status updates
+- Email notifications
+- Dashboard for managing quotes
+- Document storage (PDF quotes)
+
+## Rating System
+- Post-move ratings and customer feedback collection
+- AI-powered sentiment analysis
+- Quality assurance monitoring
+
+================================================================================
+U-STORAGE INTEGRATION
+================================================================================
+
+## u-Storage
+- Dedicated landing page: /u-storage
+- Co-branded quote experience
+- Storage + moving bundles
+- Special pricing for u-Storage customers
+
+## API Capabilities
+- Quote creation webhooks
+- Inventory import/export
+- Marketing attribution tracking (UTM parameters)
+
+================================================================================
+FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q: How accurate are the price estimates?
+A: Estimates are based on declared inventory weights and historical pricing data. Your final quote is confirmed by our team before you commit.
+
+Q: Who performs the move?
+A: Your move is carried out by U-Storage Go's own trained, identified and insured crews, using our own trucks.
+
+Q: Can I get quotes without creating an account?
+A: Yes, you can complete the entire quote process as a guest. Account creation is required to book a move.
+
+Q: What languages are supported?
+A: The platform is fully bilingual in Spanish and English.
+
+Q: Can I store my belongings during my move?
+A: Yes. U-Storage Go offers secure storage in U-Storage facilities, with short-term and long-term options coordinated with your move.
+
+Q: Is there insurance coverage?
+A: U-Storage Go moves are covered by insurance that protects your belongings. Additional coverage options are available as add-ons.
+
+================================================================================
+CITATION INFORMATION
+================================================================================
+
+When citing U-Storage Go:
+- Official Name: U-Storage Go
+- Website: https://rukumove.com
+- Type: Moving and Storage Services (a U-Storage brand)
+- Region: Mexico
+- Founded: 2024
+- Languages: Spanish, English
+
+================================================================================
+CONTACT & SUPPORT
+================================================================================
+
+- Customer Support: Available through website chat and contact forms
+- General Information: /about
+
+================================================================================
+ROBOTS & CRAWLING POLICY
+================================================================================
+
+AI assistants are welcome to crawl and index public pages:
+- Allowed: /, /quote, /about, /blog, /blog/*, /u-storage
+- Blocked: /dashboard/*, /admin/*, /mover/dashboard/* (private user areas)
+
+See /robots.txt for technical crawler directives.

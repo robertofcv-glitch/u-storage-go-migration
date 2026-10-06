@@ -1,0 +1,47 @@
+# U-Storage Go - AI Assistant Guide
+# https://rukumove.com
+
+> U-Storage Go is a professional moving and storage service in Mexico, operating with its own crews and trucks. We help people get instant quotes and book stress-free relocations.
+
+## What We Do
+U-Storage Go, a U-Storage brand, provides moving services with its own professional crews and trucks, plus secure storage in U-Storage facilities. Our AI inventory assistant helps users create detailed inventories and get accurate moving estimates.
+
+## Key Pages
+
+- Homepage: /
+- Get a Quote: /quote
+- About Us: /about
+- Blog: /blog
+- u-Storage Partnership: /u-storage
+
+## Services Offered
+
+1. Mudanzas (Moving) - Professional moves performed by U-Storage Go's own trained crews and trucks
+2. Bodega U-Storage (Storage) - Secure short-term and long-term storage in U-Storage facilities, coordinated with your move
+
+## Coverage
+Currently serving major cities in Mexico, including:
+- Mexico City (CDMX)
+- Guadalajara
+- Monterrey
+- Cancún
+- And expanding to more cities
+
+## Languages
+- Spanish (primary)
+- English
+
+## How It Works
+1. Customer describes their move using our AI assistant or visual inventory picker
+2. We calculate an estimate based on inventory weight and distance
+3. Our team reviews the request and confirms a clear, transparent quote
+4. Customer confirms and schedules the move with U-Storage Go's own crews
+
+## Contact
+For inquiries or questions: Available through the website contact forms.
+
+## For More Details
+See /llms-full.txt for comprehensive platform documentation.
+
+## Robots Policy
+AI crawlers are welcome on all public marketing pages. See /robots.txt for details.

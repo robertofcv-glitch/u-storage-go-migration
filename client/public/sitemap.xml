@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://rukumove.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://rukumove.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rukumove.com/?lang=en"/>
+  </url>
+  
+  <!-- Quote Page -->
+  <url>
+    <loc>https://rukumove.com/quote</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://rukumove.com/quote?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rukumove.com/quote?lang=en"/>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://rukumove.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://rukumove.com/about?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rukumove.com/about?lang=en"/>
+  </url>
+  
+  <!-- Blog Page -->
+  <url>
+    <loc>https://rukumove.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://rukumove.com/blog?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rukumove.com/blog?lang=en"/>
+  </url>
+  
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://rukumove.com/blog/moving-tips-2024</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rukumove.com/blog/packing-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rukumove.com/blog/choosing-mover</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Partners/Mover Page -->
+  <url>
+    <loc>https://rukumove.com/mover</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://rukumove.com/mover?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rukumove.com/mover?lang=en"/>
+  </url>
+  
+  <!-- u-Storage Landing Page -->
+  <url>
+    <loc>https://rukumove.com/u-storage</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://rukumove.com/u-storage?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rukumove.com/u-storage?lang=en"/>
+  </url>
+  
+  <!-- Login Page -->
+  <url>
+    <loc>https://rukumove.com/login</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  
+</urlset>
